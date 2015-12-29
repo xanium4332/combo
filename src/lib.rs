@@ -1,3 +1,7 @@
+//! Small crate containing functionality for iterating over combinations of a sequence.
+//!
+//! See documentation of `combinations` function for usage details.
+
 #[cfg(test)]
 use std::collections::BTreeSet;
 

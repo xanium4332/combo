@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex['combo'] = {"items":[[0,"","combo","Small crate containing functionality for iterating over combinations of a sequence.",null,null],[3,"Combinator","","An non-standard iterator yielding combinations of elements from a sequence.",null,null],[3,"CombinationIter","","An `Iterator` yielding references to elements of a particular combination.",null,null],[5,"combinations","","Returns a (non-standard) iterator yielding all combinations of length `len` from\nthe sequence `seq`.",null,null],[11,"next","","",0,{"inputs":[{"name":"combinator"}],"output":{"name":"option"}}],[11,"next","","",1,{"inputs":[{"name":"combinationiter"}],"output":{"name":"option"}}]],"paths":[[3,"Combinator"],[3,"CombinationIter"]]};
+initSearch(searchIndex);
